@@ -3,9 +3,12 @@ C:.
 |   LICENSE
 |   maketree.bat
 |   README.md
+|   Tree.txt
 |   TreeOld.txt
 |   
 \---Not Rick
-        Not Rick.bat
-        Rick.mp4
-        
+    |   Not Rick.bat
+    |   
+    \---files
+            Rick.mp4
+            
