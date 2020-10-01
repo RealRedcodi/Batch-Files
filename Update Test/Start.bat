@@ -1,3 +1,4 @@
 @echo off
-curl URL HERE -O run.bat
+del run.bat
+curl https://raw.githubusercontent.com/RealRedcodi/Batch-Files/master/Update%20Test/files/run.bat -O run.bat
 run.bat
