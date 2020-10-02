@@ -13,12 +13,25 @@ C:.
 |       \---example
 |               foobar.docx
 |               
++---Misc
+|       hot dog.jpg
+|       Loser.jpeg
+|       Mech Pencil.png
+|       Mega Hot Dog.jpg
+|       Old man yes.PNG
+|       Pencil.png
+|       Winner.PNG
+|       WIN_20200930_11_57_37_Pro.mp4
+|       
 +---NotRick
 |   |   Not Rick.bat
 |   |   
 |   \---files
 |           Rick.mp4
 |           
++---Pranks
+|       BadFakeVirus.bat
+|       
 +---StillNotRick
 |   \---files
 |           Rick_000.jpg
