@@ -6,13 +6,14 @@ C:.
 |   Tree.txt
 |   TreeOld.txt
 |   
-+---Not Rick
++---NotRick
 |   |   Not Rick.bat
+|   |   rick.mp4
 |   |   
 |   \---files
 |           Rick.mp4
 |           
-\---Update Test
+\---UpdateTest
     |   Start.bat
     |   
     \---files
